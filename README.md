@@ -1,2 +1,2 @@
 # Bank_Automation_System
-Bu proje Hesap Oluşturma, Para Yatırma, Para Çekme, Bakiye Görüntüleme, Tüm Hesapları Listeleme ve Oluşturulmuş Hesapları Kapatma işlemlerini Yapan C++ ile oluşturulmuş bir Banka Sistemi projesidir.
+Bu proje, C++ ile bir banka otomasyon sistemini simüle eden bir uygulamadır. Kullanıcılar bununla Hesap Oluşturma, Para Yatırma, Para Çekme, Bakiye Görüntüleme, Tüm Hesapları Listeleme ve Hesap Kapatma işlemlerini gerçekleştirebilirler. Program, hesap bilgilerini saklamak için bir Account sınıfı ve hesap yönetimi için bir Bank sınıfı kullanarak, kullanıcı etkileşimlerini konsol üzerinden alır ve işlemleri gerçekleştirir.
